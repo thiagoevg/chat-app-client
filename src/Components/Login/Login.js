@@ -24,6 +24,7 @@ function Login() {
                   id="profile-img"
                   className="rounded-circle profile-img-card"
                   src="https://i.imgur.com/6b6psnA.png"
+                  alt='loginlogo'
                 />
                 <p id="profile-name" className="profile-name-card"></p>
                 <form>
